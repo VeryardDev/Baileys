@@ -1118,4 +1118,4 @@ sock.ws.on('CB:edge_routing,id:abcd,routing_info', (node: BinaryNode) => { })
 
 ## Bug Report
 
-Github: [@VeryardDev](https://github.com/VeryardDev/Baileys/issue)
+Github: [@VeryardDev](https://github.com/VeryardDev/Baileys/issues)
