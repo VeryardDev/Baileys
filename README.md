@@ -1118,4 +1118,4 @@ sock.ws.on('CB:edge_routing,id:abcd,routing_info', (node: BinaryNode) => { })
 
 ## Bug Report
 
-Github: [@Veryard](https://github.com/kingard888/EmiBail/issues)
+Github: [@VeryardDev](https://github.com/VeryardDev/Baileys/issue)
